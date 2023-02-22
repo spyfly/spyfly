@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 ### My GitHub Stats
 [![GitHub Overview Stats](https://github-readme-stats.vercel.app/api?username=spyfly&hide_title=true&count_private=true&show_icons=true&theme=omni)](https://github.com/spyfly#github-stats)
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spyfly&count_private=true&show_icons=true&theme=omni&layout=compact)](https://github.com/spyfly#github-stats)
+
+### My current projects
+Below you will find a few of my recently worked on projects, feel free to leave a star if you have the time ✨
